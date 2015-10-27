@@ -12,6 +12,9 @@ From the terminal, navigate to the `diceware_password` directory and run `dicewa
 
 # Output
 `mazda cage flew mot deny veal`
+
 `dirge soya meir typo trash xg`
+
 `queasy engle clad pond xh cater`
+
 `sima tempt hertz chuff terra tail`
