@@ -11,10 +11,8 @@ Python uses the Mersenne Twister pseudorandom number generator. This is the most
 From the terminal, navigate to the `diceware_password` directory and run `diceware.py`. This will bring up a prompt asking how many passwords should be generated. Enter a number and press `enter`.
 
 # Output
-`mazda cage flew mot deny veal`
-
-`dirge soya meir typo trash xg`
-
-`queasy engle clad pond xh cater`
-
-`sima tempt hertz chuff terra tail`
+```
+mazda cage flew mot deny veal
+dirge soya meir typo trash xg
+queasy engle clad pond xh cater
+sima tempt hertz chuff terra tail
